@@ -2,15 +2,15 @@
   "tabela_usuario": "usuario",
   "coluna_usuario": "nome",
   "tabela_plano": "plano",
-  "coluna_plano": "nome",
+  "coluna_plano": "nome_do_plano",
   "tabela_historico_de_reproducoes": "historico",
   "coluna_historico_de_reproducoes": "cancao_id",
   "tabela_seguindo_artistas": "seguidores",
   "coluna_seguindo_artistas": "artista_id",
   "tabela_artista": "artista",
-  "coluna_artista": "nome",
+  "coluna_artista": "nome_do_artista",
   "tabela_album": "album",
-  "coluna_album": "nome",
+  "coluna_album": "nome_do_album",
   "tabela_cancoes": "cancao",
-  "coluna_cancoes": "nome"
+  "coluna_cancoes": "nome_da_cancao"
 }
