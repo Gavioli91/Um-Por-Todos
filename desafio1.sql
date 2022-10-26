@@ -30,10 +30,10 @@ CREATE TABLE SpotifyClone.album (
     nome_do_album VARCHAR(100) NOT NULL,
     artista_id INT NOT NULL,
     ano_lancamento YEAR NOT NULL,
-    CONSTRAINT PRIMARY KEY (album_id, artista_id),
+    PRIMARY KEY (album_id),
     FOREIGN KEY (artista_id)
         REFERENCES artista (artista_id)
-) ENGINE=INNODB;
+    ) ENGINE=INNODB;
 
 CREATE TABLE SpotifyClone.cancao (
     cancao_id INT PRIMARY KEY AUTO_INCREMENT,
