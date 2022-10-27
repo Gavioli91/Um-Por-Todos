@@ -87,7 +87,7 @@ INSERT INTO SpotifyClone.plano (nome_do_plano, preco)
   VALUES ('Beyoncé'),
   ('Queen'),
   ('Elis Regina'),
-  ('Banco Exu do Blues'),
+  ('Baco Exu do Blues'),
   ('Blind Guardian'),
   ('Nina Simone');
 
