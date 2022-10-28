@@ -102,15 +102,15 @@ INSERT INTO SpotifyClone.plano (nome_do_plano, preco)
     ('I Put A Spell On You', '2012', 6);
 
     INSERT INTO SpotifyClone.cancao (nome_da_cancao, duracao, album_id)
-    VALUES ('Break My Soul', 279, 1),
-    ('Virgo\’s Groove', 369, 1),
-    ('Alien Superstar', 116, 1),
-    ('Don\’t Stop Me Now', 203, 2),
+    VALUES ('BREAK MY SOUL', 279, 1),
+    ('VIRGO’S GROOVE', 369, 1),
+    ('ALIEN SUPERSTAR', 116, 1),
+    ('Don’t Stop Me Now', 203, 2),
     ('Under Pressure', 152, 3),
     ('Como Nossos Pais', 105, 4),
     ('O Medo de Amar é o Medo de Ser Livre', 207, 5),
     ('Samba em Paris', 267, 6),
-    ('The Bard\’s Song', 244, 7),
+    ('The Bard’s Song', 244, 7),
     ('Feeling Good', 100, 8);
     
     INSERT INTO SpotifyClone.historico (historico_id, usuario_id, cancao_id)
